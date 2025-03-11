@@ -149,7 +149,7 @@ select {
 .featured-container {
   display: flex;
   justify-content: space-around;
-  gap: 50px;
+  gap: 49px;
 }
 
 .featured-card {
